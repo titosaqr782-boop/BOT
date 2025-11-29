@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "Saqr_10.aternos.me:47569", 
+    "port":47569,   
     "version": "1.12.1"   
   },
 
